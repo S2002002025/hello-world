@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi Humans!
+This is Sajal Rokka, from Nepal/
